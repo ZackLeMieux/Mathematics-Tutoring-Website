@@ -16,6 +16,12 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "events": "^3.3.0"
+    "@firebase/firestore": "^2.3.7",
+    "@firebase/functions": "^0.10.0",
+    "@grpc/proto-loader": "^0.7.8",
+    "events": "^3.3.0",
+    "firebase": "^8.6.8",
+    "node-fetch": "^2.6.7",
+    "protobufjs": "^7.2.4"
   }
 }
