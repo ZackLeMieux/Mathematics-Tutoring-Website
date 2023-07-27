@@ -396,7 +396,7 @@ transform: scale(0.9);
 
 .hero-second{
   position: absolute;
-  top: 40px;
+  top: 60px;
   right: 50px;
   color: var(--color-text);
 }
